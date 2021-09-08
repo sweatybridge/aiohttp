@@ -16,12 +16,12 @@ certifi==2020.12.5
     # via requests
 chardet==4.0.0
     # via requests
-click-default-group==1.2.2
-    # via towncrier
 click==7.1.2
     # via
     #   click-default-group
     #   towncrier
+click-default-group==1.2.2
+    # via towncrier
 docutils==0.16
     # via sphinx
 funcparserlib==0.3.6
@@ -42,7 +42,7 @@ markupsafe==1.1.1
     # via jinja2
 packaging==20.9
     # via sphinx
-pillow==8.2.0
+pillow==8.3.2
     # via blockdiag
 pyenchant==3.2.0
     # via sphinxcontrib-spelling
@@ -58,7 +58,7 @@ requests==2.25.1
     # via sphinx
 snowballstemmer==2.1.0
     # via sphinx
-sphinx==4.0.2
+sphinx==4.1.0
     # via
     #   -r doc.txt
     #   sphinxcontrib-asyncio
