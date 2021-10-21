@@ -8,7 +8,7 @@ aiohttp-theme==0.1.6
     # via -r doc.txt
 alabaster==0.7.12
     # via sphinx
-babel==2.9.0
+babel==2.9.1
     # via sphinx
 blockdiag==2.0.1
     # via sphinxcontrib-blockdiag
@@ -16,12 +16,12 @@ certifi==2020.12.5
     # via requests
 chardet==4.0.0
     # via requests
-click-default-group==1.2.2
-    # via towncrier
 click==7.1.2
     # via
     #   click-default-group
     #   towncrier
+click-default-group==1.2.2
+    # via towncrier
 docutils==0.16
     # via sphinx
 funcparserlib==0.3.6
@@ -58,7 +58,7 @@ requests==2.25.1
     # via sphinx
 snowballstemmer==2.1.0
     # via sphinx
-sphinx==4.0.2
+sphinx==4.1.0
     # via
     #   -r doc.txt
     #   sphinxcontrib-asyncio
