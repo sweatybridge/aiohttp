@@ -20,7 +20,7 @@ flake8==4.0.1
     # via
     #   -r requirements/lint.in
     #   flake8-pyi
-flake8-pyi==22.5.1
+flake8-pyi==23.1.2
     # via -r requirements/lint.in
 identify==1.5.14
     # via pre-commit
